@@ -18,8 +18,8 @@ A big thanks to the following individuals for creating and contributing to this 
 | Nima Soltani              | اتلاین شاپ                    | [Problem2](/2/)               |
 | Aida Jalali               | اتحاد جادویی گندالف          | [Problem3](/3/)               |
 | Dwin Gharibi              | اسی، رنک بن زیاد             | [Problem4](/4/)               |
-| Mohammad mahdi farhadi    | جادوی طومارهای پاندورا       | [Problem5](/5/)               |
-| Nirvana Mahlou            | نجات از جزیره                | [Problem6](/6/)               |
-| Abolfazl Yousefi          | طلسم‌های موریا                | [Problem7](/7/)               |
+| Mohammad mahdi farhadi    | جادوی طومارهای پاندورا       | [Problem5](/5(Bonus)/)        |
+| Nirvana Mahlou            | نجات از جزیره                | [Problem6](/6(Bonus)/)        |
+| Abolfazl Yousefi          | طلسم‌های موریا                | [Problem7](/7(Bonus)/)        |
 
 Also, a huge thanks to **Ghazal Ahanjan** for coordinating the problems and selecting the top ones from the shortlisted problems to be in the assignment, and **Amin Hashemi** for performing the final review, quality assurance (QA), grammar and typo corrections, and ensuring the overall clarity and readiness of the problems for release.
